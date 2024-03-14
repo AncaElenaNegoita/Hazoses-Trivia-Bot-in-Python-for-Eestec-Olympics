@@ -1,7 +1,7 @@
 Hazoses Trivia Bot
 
 An AI-like algorithm that searches a question on Wikipedia using keywords from
-that questionin and finds an answer in an efficient time, made in 24 hours
+that question and finds an answer in an efficient time, made in 24 hours
 during Eestec Olympics - Main Challenge(2022).
 
 The program is written in Python in collaboration with Valentin-Ioan Vintila and
